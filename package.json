@@ -1,0 +1,17 @@
+{
+  "name": "ve_xe_van_minh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "di": "node ve_xe_di.js",
+    "ve": "node ve_xe_ve.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "selenium-webdriver": "^4.23.0",
+    "mocha": "10.6.0"
+  }
+}
